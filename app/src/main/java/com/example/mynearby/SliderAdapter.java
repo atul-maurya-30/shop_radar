@@ -48,7 +48,7 @@ public class SliderAdapter extends RecyclerView.Adapter<SliderAdapter.SliderView
 
         public SliderViewHolder(View itemView) {
             super(itemView);
-            // Initialize the ImageView
+            // Initialize ImageView
             imageView = itemView.findViewById(R.id.imageView);
         }
     }
