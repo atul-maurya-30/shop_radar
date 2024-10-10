@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Colors -->
+    <color name="my_background_color">#F5F5F5</color> <!-- Light Grey for Background -->
+    <color name="primary_color">#00796B</color> <!-- Teal -->
+    <color name="accent_color">#FF5722</color> <!-- Deep Orange -->
+
+    <!-- Text Colors -->
+    <color name="text_color">#212121</color> <!-- Dark Grey for Text -->
+    <color name="text_hint_color">#757575</color> <!-- Grey for Hint Text -->
+
+    <!-- Additional Colors -->
+    <color name="white">#FFFFFF</color> <!-- White -->
+    <color name="black">#000000</color> <!-- Black -->
+    <color name="button_color">#1E88E5</color> <!-- Blue for Buttons -->
+    <color name="error_color">#D32F2F</color> <!-- Red for Errors -->
+    <color name="success_color">#388E3C</color> <!-- Green for Success Messages -->
+</resources>
